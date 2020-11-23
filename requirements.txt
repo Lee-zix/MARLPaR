@@ -1,0 +1,4 @@
+networkx == 2.0
+numpy == 1.13.3
+tensorflow_gpu == 1.14
+tqdm == 4.19.4
